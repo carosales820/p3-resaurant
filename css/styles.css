@@ -1,5 +1,5 @@
 body {
-	background: blue;
+	background: black;
 }
 
 .contact-map{
@@ -13,9 +13,13 @@ body {
 }
 
 nav{
-  background: rgba(255,0,0,.5);
+  margin-top: 100px;
+  margin-bottom: 10px;
+  background: black;
+  opacity: .8;
   position: fixed;
   top: 0;
   width: 100%;
-  display: inline;
+  text-align: right;
+  text-decoration: none;
 }
