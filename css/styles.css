@@ -1,5 +1,5 @@
 body {
-	background: url(../img/black-bg.jpg);
+  background: url(../img/sakura.jpg) no-repeat;
 }
 
 .contact-map{
@@ -21,8 +21,9 @@ nav{
   position: fixed;
   top: 0;
   width: 100%;
-  float: right;
+  float: left;
   text-decoration: none;
+  margin-top: 75px;
 }
 ul,nav{
   list-style-type: none;
@@ -31,4 +32,10 @@ ul,nav{
 .reservation{
   margin-bottom: 100px;
   opacity: 75%;
+}
+
+.column,
+{
+background: black;
+color: white;
 }
