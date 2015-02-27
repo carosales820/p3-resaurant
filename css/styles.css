@@ -22,18 +22,19 @@ a{
 }
 a:hover{
   color: yellow;
+  text-transform: uppercase;
 }
 nav{
   background: black;
   opacity: .8;
-  position: fixed;
   top: 0;
   width: 100%;
   text-decoration: none;
-  margin-top: 75px;
   border-radius: 10px 10px;
   text-align: left;
   padding-right: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 ul,nav{
   list-style-type: none;
