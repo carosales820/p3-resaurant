@@ -20,6 +20,9 @@ body {
 a{
   color: red;
 }
+a:hover{
+  color: yellow;
+}
 nav{
   background: black;
   opacity: .8;
@@ -29,6 +32,8 @@ nav{
   text-decoration: none;
   margin-top: 75px;
   border-radius: 10px 10px;
+  text-align: right;
+  padding-right: 200px;
 }
 ul,nav{
   list-style-type: none;
