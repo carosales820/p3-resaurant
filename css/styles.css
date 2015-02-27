@@ -16,8 +16,11 @@ body {
   border-radius: 10px 10px;
 }
 
-nav{
+
+a{
   color: red;
+}
+nav{
   background: black;
   opacity: .8;
   position: fixed;
@@ -57,4 +60,17 @@ h2{
 }
 em{
   margin-left: 10px;
+}
+
+.yellow-plate:hover{
+  color: yellow;
+}
+.blue-plate:hover{
+  color: lightblue;
+}
+.red-plate:hover{
+  color: red;
+}
+.green-plate:hover{
+  color: green;
 }
